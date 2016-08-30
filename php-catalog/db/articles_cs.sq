@@ -1,0 +1,152 @@
+0|||1957|Вейвлеты и их использование|12|./VR/v0001.pdf|DSP
+1|||1958|3D компьютерные копии обьектов|12|./VR/v0002.pdf|CG
+2|cond-mat|0111531v1|1959|A practical guide to computer simulations|12|./VR/v0003.pdf|SIM
+3|||1960|Unsupervised Color Correction for Digital Photographs|12|./VR/v0004.pdf|CG
+4|||1961|Multiscale model of Adaptation, Spatial Vision and Color Appearance|12|./VR/v0005.pdf|CG
+5|||1962|High Dynamic Range Imaging|12|./VR/v0006.pdf|CG
+6|||1961|Multiscale model of Adaptation, Spatial Vision and Color Appearance|12|./VR/v0007.pdf|CG
+7|||1963|A Revision of CIECAM97s for Practical Applications|12|./VR/v0008.pdf|CG
+8|||1962|Real Numbers, Real Images|12|./VR/v0009.pdf|CG
+9|||1964|Interactive Tone Mapping|12|./VR/v0010.pdf|CG
+10|||1965|Rendering HDR Images|12|./VR/v0011.pdf|CG
+11|||1966|An Optimal Tone Reproduction Curve Operator for the Display of HDR Images|12|./VR/v0012.pdf|CG
+12|||1967|Robust Parameter Estimation for Tone Mapping Operator|12|./VR/v0013.pdf|CG
+13|||1968|Applying Mixed Adaptation to Various Chromatic Adaptation Transformation (CAT) Models|12|./VR/v0014.pdf|CG
+14|||1969|Polynomial Texture Maps|12|./VR/v0015.pdf|CG
+15|||1970|A Model of Visual Adaptation for Realistic Image Synthesis|12|./VR/v0016.pdf|CG
+16|||33|Color in Information Display Principles, Perception, and Models|85|./VR/v0017.pdf|CG
+17|||1971|A Tone Mapping Algorithm for High Contrast Images|86|./VR/v0018.pdf|CG
+18|||1972|Development of a Perceptual Tone Mapping Operator|12|./VR/v0019.pdf|CG
+19|||1973|A Visibility Matching Tone Reproduction Operator for HDR Scenes|12|./VR/v0020.pdf|CG
+20|||1974|A New Realistic Tone Mapping Model|12|./VR/v0021.pdf|CG
+21|||1975|Solution to two-dimensional Incompressible Navier-Stokes Equations|12|./VR/v0022.pdf|SIM
+22|||1976|Physically Based Modeling and Animation of Fire|12|./VR/v0023.pdf|SIM
+23|||1977|Rediscovering Fire: A Survey of Current Fire Models and Applications to 3D Studio Max|12|./VR/v0024.pdf|CG
+24|||1978|Voxels on Fire|12|./VR/v0025.pdf|CG
+25|||1979|Real-Time Fluid Dynamics for Games|12|./VR/v0026.pdf|SIM
+26|||1980|Realistic Animation of Liquids|12|./VR/v0027.pdf|SIM
+27|||1981|The Second Order Particle System|12|./VR/v0028.pdf|SIM
+28|||1982|Dynamic Simulation of Splashing Fluids|12|./VR/v0029.pdf|SIM
+29|||1983|Particle-Based Fluid Simulation for Interactive Applications|87|./VR/v0030.pdf|SIM
+30|||1984|Modeling Realistic Water and Fire|12|./VR/v0031.pdf|SIM
+31|||1985|Realistic and Controllable Fire Simulation|12|./VR/v0032.pdf|SIM
+32|||1986|Physics Based Simulation for Computer Graphics|12|./VR/v0033.pdf|CG
+33|||1980|Modeling the Motion of a Hot, Turbulent Gas|12|./VR/v0034.pdf|SIM
+34|||1987|Simulating Water and Smoke with an Octree Data Structure|12|./VR/v0035.pdf|SIM
+35|||1979|Stable Fluids|12|./VR/v0036.pdf|SIM
+36|||1988|Visual Simulation of Smoke|12|./VR/v0037.pdf|SIM
+37|||1989|Practical Animation of Liquids|12|./VR/v0038.pdf|SIM
+38|||1976|Physically Based Modeling and Animation of Fire|12|./VR/v0039.pdf|SIM
+39|||1986|Simulating Natural Phenomena for Computer Graphics|12|./VR/v0040.pdf|SIM
+40|||1990|Animation and Rendering of Complex Water Surfaces|12|./VR/v0041.pdf|SIM
+41|||1991|Big Bangs|12|./VR/v0042.pdf|CG
+42|||1992|Simulation and Animation of Fire and Other Natural Phenomena in the Visual Effects Industry|12|./VR/v0043.pdf|SIM
+43|||1993|A Fast and Accurate Semi-Lagrangian Particle Level Set Method|12|./VR/v0044.pdf|NM
+44|||1994|Directable Photorealistic Liquids|12|./VR/v0045.pdf|CG
+45|||1995|A method for avoiding the acoustic time step restriction in compressible flow|12|./VR/v0046.pdf|NM
+46|||1996|Modeling and Rendering Viscous Liquids|12|./VR/v0047.pdf|SIM
+47|||1997|Low Latency Photon Mapping using Block Hashing|88|./VR/v0048.pdf|SIM
+48|||1998|Generalized Implicit Functions For Computer Graphics|89|./VR/v0049.djv|CG
+49|||33|State of the Art in Monte Carlo Ray Tracing for Realistic Image Synthesis|90|./VR/v0050.pdf|CG
+50|||1999|Distributed Ray Tracing|91|./VR/v0051.pdf|CG
+51|||2000|Global Illumination using Photon Maps|12|./VR/v0052.pdf|CG
+52|||2001|Eigenvector Radiosity|12|./VR/v0053.pdf|CG
+53|||2002|Metropolis Light Transport|12|./VR/v0054.pdf|CG
+54|||2003|Interactive Global Illumination using Fast Ray Tracing|12|./VR/v0055.pdf|CG
+55|||2004|Efficient Importance Sampling Techniques for the Photon Map|12|./VR/v0056.pdf|CG
+56|||2000|Impotance Driving Path Tracing using Photon Maps|12|./VR/v0057.pdf|CG
+57|||33|A Practical Guide to Global Illumination using Photon Maps|92|./VR/v0058.pdf|CG
+58|||2005|Photon Maps in Bidirectional Monte Carlo Ray Tracing of Complex Objects|12|./VR/v0059.pdf|CG
+59|||2006|THE RENDERING EQUATION|12|./VR/v0060.pdf|CG
+60|||2007|Unbiased Sampling Techniques for Image Synthesis|93|./VR/v0061.pdf|CG
+61|||2008|Introduction to Monte Carlo Integration|12|./VR/v0062.pdf|NM
+62|||2009|Hybrid Radiosity/Monte Carlo Methods|12|./VR/v0063.pdf|CG
+63|||2010|Practical Rendering of Multiple Scattering Effects in Participating Media|12|./VR/v0064.pdf|CG
+64|||2011|Path Integration for Light Transport in Volumes|12|./VR/v0065.pdf|CG
+65|||2012|Photon Mapping on Programmable Graphics Hardware|12|./VR/v0066.pdf|CG
+66|||33|Photon Maps|12|./VR/v0100.pdf|CG
+67|||2013|Radiance Caching for Efcient Global Illumination Computation|12|./VR/v0101.pdf|CG
+68|||2014|Spherical Harmonic Gradients for Mid-Range Illumination|12|./VR/v0102.pdf|CG
+69|||2015|Monte Carlo Methods and the Challenge of Photo-Realism in Computer Graphics|12|./VR/v0103.pdf|CG
+70|||2016|Real Time Photon Mapping|12|./VR/v0104.pdf|CG
+71|||1962|Irradiance Gradients|12|./VR/v0105.pdf|CG
+72|||2017|Galerkin Radiosity|12|./VR/v0106.pdf|CG
+73|||2018|An Anisotropic Phong BRDF Model|12|./VR/v0107.pdf|CG
+74|||2019|Fast Volumetric Display of Natural Gaseous Phenomena|12|./VR/v0108.pdf|CG
+75|||2020|Stochastic Rendering of Density Fields|12|./VR/v0109.pdf|CG
+76|||2021|Real time rendering of atmospheric scattering effects |12|./VR/v0110.pdf|CG
+77|||2022|A Physically-Based Night Sky Model|12|./VR/v0111.pdf|CG
+78|||2023|A Discrete Solution of the Scattering Equation for Computer Graphics|12|./VR/v0112.pdf|CG
+79|||2024|Efficient Rendering of Dynamic Clouds|12|./VR/v0113.pdf|CG
+80|||2025|Efficient Rendering of Lightning Taking into Account Scattering Effects due to Clouds and Atmospheric Particles|12|./VR/v0114.pdf|CG
+81|||2026|A Simple, Efficient Method for Realistic Animation of Clouds|12|./VR/v0115.pdf|CG
+82|||2027|Display of the Earth Taking in Account Atmospheric Scattering|12|./VR/v0116.pdf|CG
+83|||2028|A Practical Analytic Model for Daylight|12|./VR/v0117.pdf|CG
+84|||2029|Analysis of range search for random k-d trees|94|./VR/v0118.pdf|NN
+85|||2030|Binary Space Partitioning for Accelerated Hidden Surface Removal and Rendering of Static Environments|12|./VR/v0119.pdf|CG
+86|||2031|Analytic Light Transport Approximations for Volumetric Materials|12|./VR/v0120.pdf|CG
+87|||2032|SURVEY OF TEXTURE MAPPING|95|./VR/v0121.pdf|CG
+88|||2033|Fast and Accurate Ray-Voxel Intersection Techniques for Iso-Surface Ray Tracing|12|./VR/v0122.pdf|CG
+89|||2034|Hierarchical Lighting Simulation for Outdoor Scenes|12|./VR/v0123.pdf|CG
+90|||2035|FAST AND MEMORY EFFICIENT JBIG2 ENCODER|12|./VR/v0124.pdf|DSP
+91|||2036|A Survey of Shading and Reflectance Models|12|./VR/v0125.djv|CG
+92|||2036|An Inexpansive BEDF Model for Physically-Based Rendering |12|./VR/v0126.djv|CG
+93|||2037|Implicit Sweep Objects|12|./VR/v0127.djv|CG
+94|||2038|Дальние корреляции частиц и вейвлеты|12|./VR/v0128.pdf|DSP
+95|||2039|Computing and Computers|12|./VR/v0129.pdf|SIM
+96|||2040|The Coming Technological Singularity|12|./VR/v0130.htm|NN
+97|||2041|MapReduce: Simplified Data Processing on Large Clusters|12|./VR/v0131.pdf|NN
+98|||2042|Bias and No Free Lunch in Formal Measures of Intelligence|12|./VR/v0132.pdf|NN
+99|||2043|THE ARTILECT WAR|12|./VR/v0133.pdf|NN
+100|||33|ExaScale Computing Study: Technology Challenges in Achieving Exascale Systems|96|./VR/v0134.pdf|NN
+101|||2044|Combining bidirectional path tracing and multipass rendering|12|./VR/v013.pdf|CG
+102|||2045|Машинные модели роста кристаллов|12|./VR/v0135.pdf|SIM
+103|||2046|DARPA and the Internet Revolution|12|./VR/v0136.pdf|NN
+104|||2047|Cloud Modeling for Computer Graphics|12|./VR/v0137.pdf|CG
+105|||2048|Расчеты динамики решетки кристаллов из первых принципов|12|./VR/v013.pdf|SIM
+106|||2049|Excellence in Computer Simulation|12|./VR/v0138.pdf|SIM
+107|||2050|CONTENTS OF PHYSICS RELATED E-PRINT ARCHIVES|12|./VR/v0139.pdf|NN
+108|||2051|Supercomputers in astrophysics|12|./VR/v0140.pdf|SIM
+109||0903.0484|2052|Hacking the Sky|12|./VR/v0141.pdf|NN
+110||0804.0747|2053|Fractal and Multifractal Time Series|12|./VR/v0142.pdf|DSP
+111||0812.2086|2054|50 Years of Computer Simulation — a Personal View|12|./VR/v0143.pdf|SIM
+112||0905.1628|2055|Scientific Software Engineering in a Nutshell|12|./VR/v0144.pdf|NN
+113||0912.0255|33|Data Preservation in High-Energy Physics|12|./VR/v0145.pdf|NN
+114||1004.3229|2056|Fifteen years of econophysics|12|./VR/v0146.pdf|NN
+115||1005.4117|2055|Random Numbers in Scientific Computing|12|./VR/v0147.pdf|NM
+116|||2057|Faster Photorealism in Wonderland|12|./VR/v0148.pdf|CG
+117|||2058|Fast Lines: a Span by Span Method|97|./VR/v0149.pdf|CG
+118|||2059|Tree Rotations for Improving Bounding Volume Hierarchies|98|./VR/v0150.pdf|CG
+119|||2060|Science Prospects and Benefits with Exascale Computing|12|./VR/v0151.pdf|SIM
+120|||2061|Building Watson: An Overview of the DeepQA Project|12|./VR/v0152.pdf|NN
+121||1102.5123|2062|Scientific Visualization in Astronomy: Towards the Petascale Astronomy Era|12|./VR/v0153.pdf|CAP
+122||1002.1330|2063|Efficient estimation of nearly sparse many-body quantum Hamiltonians|12|./VR/v0154.pdf|NM
+123|||2064|Compressive sampling|12|./VR/v0155.pdf|DSP
+124|||2065|Practical Signal Recovery from Random Projections|12|./VR/v0156.pdf|DSP
+125|||2066|Robust Uncertainty Principles: Exact Signal Reconstruction from Highly Incomplete Frequency Information|12|./VR/v0157.pdf|DSP
+126|||2067|Introduction to Compressed Sensing (ch.1)|12|./VR/v0158.pdf|DSP
+127|||2068|COMPRESSED SENSING FOR APERTURE SYNTHESIS IMAGING|12|./VR/v0159.pdf|CG
+128|physics.flu-dyn|0606246v2|2069|Turbulent luminance in impassioned van Gogh paintings|12|./VR/v0160.pdf|CG
+129|||2070|A PHYSICIST’S MODEL OF COMPUTATION|12|./VR/v0161.pdf|NM
+130|||2071|An overview of genetic algorithms. Part 1: Fundamentals|12|./VR/v0162.pdf|NM
+131|||2071|An overview of genetic algorithms. Part 2: Research topics|12|./VR/v0163.pdf|NM
+132|||2072|An Overview of Evolutionary Computation|12|./VR/v0200.pdf|NM
+133||1108.2700|2073|It was twenty years ago today (about arXiv.org)|12|./VR/v0201.pdf|NN
+134||1007.1944|2074|LHC Databases on the Grid: Achievements and Open Issues|12|./VR/v0202.pdf|NN
+135||0306023|2075|The QCDOC supercomputer: hardware, software, and performance|12|./VR/v0203.pdf|NN
+136||1005.4117|2055|Random Numbers in Scientific Computing: An Introduction|12|./VR/v0204.pdf|NM
+137||0307033|2049|Excellence in Computer Simulation|12|./VR/v0205.pdf|SIM
+138||0307032|2076|Data Management and Mining in Astrophysical Databases|12|./VR/v0206.pdf|CAP
+139|||33|Data Preservation in High-Energy Physics|12|./VR/v0207.pdf|NN
+140||9908043|296|Ultimate physical limits to computation|12|./VR/v0208.pdf|NN
+141||1009.2755|2077|Error estimation in astronomy: A guide|12|./VR/v0209.pdf|CAP
+142||0706.1270|2078|The Cosmic Code Comparison Project|12|./VR/v0210.pdf|CAP
+143|||2079|Instant Radiosity|12|./VR/v0211.pdf|CG
+144|||2080|Lossy compression of partially masked still images|12|./VR/v0212.pdf|DSP
+145|||2081|High quality image compression with djvu|12|./VR/v0213.pdf|DSP
+146|||2082|Modeling the Interaction of Light Between Diffuse Surfaces|12|./VR/v0214.pdf|CG
+147|||2083|An Intro to Compressive sampling|12|./VR/v0215.djv|DSP
+148||1007.4473|2084|The 2010 Interferometric Imaging Beauty Contest|12|./VR/v0216.pdf|DSP
+149|||2085|Compressive Rendering: A Rendering Application of Compressed Sensing|12|./VR/v0217.pdf|CG
+150|||33|Comparing the Real and the Synthetic: Building the Cornell Box|12|./VR/v0218.pdf|CG
+151|||2086|Entangled networks, synchronization and optimal network topology|12|./arxive/0502230.pdf|NM

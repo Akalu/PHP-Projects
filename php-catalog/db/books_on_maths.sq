@@ -1,0 +1,334 @@
+﻿0|315|Лекции по группам Ли|0|GRT
+1|316|Введение в теорию групп|1|GRT
+2|138|Introduction to Groups, Invariants and Particles|2|GRT
+3|317|Сочинения|3|GRT
+4|318|The Classification of the Finit Simple Groups|4|GRT
+5|319|SL2(R)|5|GRT
+6|320|Matrix groups, an introduction to Lie groups|6|GRT
+7|321|Бесконечномерные группы Ли|7|GRT
+8|8|Классические группы, их инварианты и представления|8|GRT
+9|322|Задачи по группам Ли и их приложениям|9|GRT
+10|323|Непрерывные группы преобразований|10|GRT
+11|324|Elementary introduction to groups and representation|11|GRT
+12|325|Введение в теорию групп (Лезуш лекции)|12|GRT
+13|326|Квантовые группы|13|GRT
+14|327|Приложения групп Ли к ДУ|14|PDE
+15|328|Компактные группы Ли и их представления|15|GRT
+16|329|Алгебраические группы и теория чисел|16|NT
+17|330|Представления групп и прикладная теория вероятностей|17|RT
+18|331|Квантовые группы|18|GRT
+19|332|Числа и фигуры. Опыты математического мышления.|19|NT
+20|333|Основы теории чисел|20|NT
+21|334|Элементарные методы в аналитической теории чисел|21|NT
+22|335|Теория чисел|22|NT
+23|336|Лекции по теории чисел|23|NT
+24|337|Основы теории чисел|24|NT
+25|338|Числовые системы|25|NT
+26|339|Классическое введение в современную теорию чисел|26|NT
+27|11|Введение в современную теорию чисел|27|NT
+28|340|Основы аналитической теории чисел|28|NT
+29|341|Курс арифметики|29|NT
+30|335|Трансцендентные и алгебраические числа|30|NT
+31|11|Вероятностная теория чисел|31|NT
+32|342|Ветвящиеся цепные дроби|32|NT
+33|343|Метод вторичного квантования|33|SUSY
+34|344|Ramanujans Notebooks. Part 1|34|NT
+35|345|Дифференциальные формы в алгебраической топологии|35|AT
+36|346|Дифференциальная топология. Начальный курс.|36|DT
+37|347|Комплексные многообразия|37|CA
+38|348|Lies, Tracks and Exeptional Groups|38|GRT
+39|349|Ramanujans Notebooks. Part 2|39|NT
+40|350|Теория гомологий и когомологий|40|HO
+41|351|Introduction to Differential Topology|41|DT
+42|352|Гомологическая Алгебра|42|HO
+43|353|Элементарная теория аналитических функций одного и нескольких комплексных переменных|43|CA
+44|354|Группы Ли и дифференциальная геометрия|44|GRT
+45|96|Азбука группового анализа|45|GRT
+46|355|Алгебраическая геометрия для всех|46|AG
+47|356|Лекции по топологии для физиков|47|GT
+48|357|Топология косых произведений|48|DT
+49|358|Первые понятия топологии|49|GT
+50|359|Теория доказательств|50|N1
+51|360|Метод Монте-Карло|51|SA
+52|361|Топология|52|GT
+53|362|Modern Algebra With Applications|53|AA
+54|11|School on Algebraic Geometry (ICTP Lectures)|54|AG
+55|363|Внешние дифференциальные формы и их приложения|55|DG
+56|364|О геометрии Лобачевского|56|DG
+57|365|A Crash Coures on Lie Algebras (V. 1.2)|57|GRT
+58|222|Lie algebras|58|GRT
+59|366|Abstract Algebra: The Basic Graduate Year|59|AA
+60|367|A Gentle Introduction To Category Theory|60|CT
+61|368|An Elementary Approach to Homological Algebra|61|HO
+62|369|Undergraduate Algebraic Geometry|62|AG
+63|370|О некоторых вопросах гомологической алгебры|63|HO
+64|371|Теория разрывных функций|64|N1
+65|372|Лекции по К-теории|65|HO
+66|373|Analysis, manifolds and physics, vol.1|66|CLA
+67|374|Topology|67|GT
+68|375|Уравнения Максвелла и дифференциальные формы|68|DG
+69|376|Дифференциальные формы, расслоения, связности|69|DG
+70|377|Elementary Differential Geometry|70|DG
+71|180|Статистическая независимость в теории вероятностей, анализе и теории чисел|71|SA
+72|378|The Cohomological Determinant (unpubl. preprint)|72|HO
+73|379|Избранные труды|73|RA
+74|380|Наглядная топология|74|GT
+75|380|Элементы комбинаторной и дифференциальной топологии|75|DT
+76|380|Элементы теории гомологий|76|HO
+77|381|Внешние дифференциальные формы и вариационное исчисление|77|FA
+78|353|Дифференциальное исчисление. Дифференциальные формы.|78|DG
+79|382|Анализ. Т.1|79|CLA
+80|382|Анализ. Т.2|80|CLA
+81|383|Матричный анализ|81|CLA
+82|384|Элементарная математика в современном изложении|82|GM
+83|385|Введение в геометрию многообразий с симметриями|83|GM
+84|386|Введение в комплексный анализ|84|CA
+85|387|Теория матриц|85|GM
+86|388|Курс теории случайных процессов|86|SA
+87|389|Системы уравнений с частными производными и псевдогруппами Ли|87|PDE
+88|390|Вариационное исчисление и интегральные уравнения|88|CLA
+89|391|Теория вероятностей на алгебраических структурах|89|SA
+90|392|Cборник задач по вариационному исчислению|90|FA
+91|393|Марковские процессы|91|SA
+92|394|Метод Харди-Литтлвуда|92|NT
+93|11|Стохастическое исчисление [Сб. ст.]|93|SA
+94|395|Специальные функции и теория представлений групп|94|RT
+95|396|Обобщенные когерентные состояния|95|N1
+96|397|Групповые методы интегрирования динамических систем|96|DS
+97|398|Теоретико-групповой подход в асимптотических методах нелинейной механики|97|GRT
+98|399|Комбинаторные методы в теории случайных процессов|98|SA
+99|400|Анализ на действительных и комплексных многообразиях|99|CA
+100|401|Признаки делимости|100|NT
+101|402|Алгебра и геометрия интегрируемых гамильтоновых ДУ|101|CLA
+102|403|Курс дифференциального и интегрального исчисления. Т.1|102|CLA
+103|403|Курс дифференциального и интегрального исчисления. Т.2|103|CLA
+104|404|Введение в теорию вероятностей и ее приложения. Т.1|104|SA
+105|404|Введение в теорию вероятностей и ее приложения. Т.2|105|SA
+106|100|Математические основы суперсимметричных теорий поля|106|GRT
+107|101|Супералгебры Ли|107|GRT
+108|405|Теория матриц|108|GM
+109|406|Введение в стохастическое интегрирование|109|SA
+110|407|The Theory of the Riemann Zeta-function|110|NT
+111|408|Квантовые группы и инварианты узлов|111|GRT
+112|409|Лекции об инвариантах Зайберга-Виттена|112|DT
+113|410|Semisimple Lie Algebras and Their Representations|113|RT
+114|411|Group Characters, Symmetric Functions,and the Hecke Algebras|114|RT
+115|412|Non-Euclidean Geometry|115|DG
+116|413|Non-commutative Structures in Mathematics and Physics|116|NL
+117|414|A Basic Introduction to Surgery Theory|117|AT
+118|415|Начальные главы дифференциальной геометрии|118|DG
+119|416|Topology and geometry for physicists|119|GT
+120|417|Riemanienne geometry, a beginners guide|120|DG
+121|418|Алгебра|121|AA
+122|419|A primer of algebraic D-modules|122|RT
+123|328|Представления редуктивных групп Ли|123|RT
+124|420|Buildings and Classical Groups|124|GRT
+125|421|Everything you always wanted to know about SU(3) supset O(3)|125|GRT
+126|33|Number theory|126|NT
+127|422|Коуровская тетрадь|127|GRT
+128|423|Неподвижные точки|128|GM
+129|349|Ramanujans Notebooks|129|NT
+130|424|Young Tableaux (with Applications)|130|RT
+131|324|Lie Groups, Lie Algebras and Representation: An Elementary Inroduction|131|GRT
+132|425|A Concrete Introduction to Classical Lie Groups via the Exponential Mapping|132|GRT
+133|426|Gauge Theory and the Fiber Bundles|133|MP
+134|427|SUSY and Equivariant de Rham Theory|134|DT
+135|426|Topics in Differential Geometry|135|DG
+136|428|Complex manifolds, vector bundles and Hodge theory|136|DT
+137|429|The Geometry and Topology of 3-Manifolds|137|DT
+138|430|Книжка с картинками по топологии|138|GT
+139|431|Non-standart Analysis|139|GM
+140|432|Современная геометрия.Геометрия и топология многообразий|140|GT
+141|432|Современная геометрия. Методы теории гомологий|141|HO
+142|433|A basic course in algebraic topology|142|AT
+143|434|Функции Грина. Задачи с решениями|143|CLA
+144|11|Handbook of K-theory. Vol. 1,2 [eds. Friedlander E.M., Grayson D.R.]|144|HO
+145|11|The Trieste ICTP School for algebraic geometry [ed. Goettsche L.]|145|AG
+146|11|Surveys in noncommutative geometry [ed. Higson N.,Roe J.]|146|OA
+147|435|Fundamentals of semigroup theory|147|GRT
+148|436|Noncommutative character theory of the symmetric group|148|RT
+149|437|The Theory of Finite Groups: An Introduction|149|GRT
+150|438|Finite groups: A second course on group theory|150|GRT
+151|439|Introduction to Contact Topology|151|GT
+152|440|Введение в конформную геометрию|152|GT
+153|441|The geometry of infinite-dimensional groups|153|GRT
+154|442|Topics in differential geometry|154|DG
+155|443|Essential Topology|155|GT
+156|444|Общая топология. Основные конструкции|156|GT
+157|445|An introduction to knot theory|157|AG
+158|446| Algebraic geometry: an introduction|158|AG
+159|11|Differential Geometry: Theory and Applications [eds. Ciarlet P.G., Li T.-T.]|159|DG
+160|195|Topics in Dynamics I. Flows|160|MP
+161|447|Foliations and the geometry of 3-manifolds|161|GT
+162|448|An invitation to Morse theory|162|DT
+163|449|Трёхмерная геометрия и топология|163|GT
+164|450|Techniques of semigroup theory|164|GRT
+165|451|The mathematics of Minkowski space-time: With introduction to commutative hypercomplex numbers|165|NT
+166|452|Different Faces of Geometry|166|GT
+167|453|Integers, Polynomials, and Rings: A Course in Algebra|167|RA
+168|454|Введение в алгебраическую К-теорию|168|HO
+169|455|Gentle introduction to category theory|169|CT
+170|456|The Hodge theory of projective manifolds|170|DT
+171|457|Virtual topology and functor geometry|171|GT
+172|458|Cohomology theory|172|HO
+173|458|Homology theory|173|HO
+174|458|Introduction to contemporary mathematics|174|GM
+175|459|Computational homology|175|HO
+176|146|Topics in mathematical physics|176|MP
+177|460|Введение в теорию гомологий|177|HO
+178|461|Complex Numbers and ODE|178|CA
+179|11|Geometry and Group Theory|179|GRT
+180|462|SPECIAL FUNCTIONS and POLYNOMIALS|180|CLA
+181|463|Notes on Differential Equations|181|CLA
+182|464|Graph Theory|182|N1
+183|465|Vector Bundles and K-theory|183|HO
+184|466|INTRODUCTION TO REAL ANALYSIS|184|CLA
+185|465|Topology of Numbers|185|NT
+186|467|Topology Course Lecture Notes|186|GT
+187|468|Naive Lie theory|187|GRT
+188|469|Symmetry, representations, and invariants|188|RT
+189|470|Dictionary on Lie algebras and superalgebras|189|GRT
+190|471|Vertex algebras for beginners|190|OA
+191|321|Вертексные алгебры для начинающих|191|OA
+192|472|Lectures on exceptional Lie groups|192|GRT
+193|473|KdV and KAM|193|DS
+194|474|Monte-Carlo methods|194|SA
+195|475|Generalized Riemann problems in computational fluid dynamics|195|NA
+196|476|A Users Guide to Algebraic Topology|196|AT
+197|477|Обобщения чисел|197|NT
+198|478|Зоопарк чудовищ (специальные функции)|198|GM
+199|479|Обобщённые функции|199|FA
+200|480|Комплексный анализ|200|CA
+201|481|Расходящиеся ряды и асимптотические теории|201|CLA
+202|482|Topology without tears|202|GT
+203|483|Topology lecture notes|203|GT
+204|484|Введение в теорию обобщенных функций|204|FA
+205|485|Lectures on Modular Forms|205|AA
+206|486|An introduction to Riemannian geometry|206|DG
+207|487|Когомологии групп|207|HO
+208|488|Суперанализ|208|GRT
+209|489|Лекции по математике. T1.Анализ|209|CLA
+210|489|Лекции по математике. T2.ДУ|210|CLA
+211|489|Лекции по математике. T3. Линейная алгебра|211|GM
+212|489|Лекции по математике. T4. Вероятность, информация, статистика|212|SA
+213|489|Лекции по математике. T5. Функциональный анализ|213|FA
+214|489|Лекции по математике. T6.От Диофанта до Тьюринга|214|NA
+215|489|Лекции по математике. T7. Оптимизация |215|NA
+216|489|Лекции по математике. T8: Теория групп.|216|GRT
+217|489|Лекции по математике. T9: ТФКП.|217|CA
+218|489|Лекции по математике. T10. Перебор и эффективные алгоритмы|218|N1
+219|489|Лекции по математике. T11: Уравнения математической физики|219|MP
+220|490|Многолистные функции|220|CA
+221|491|Morse Theory|221|DT
+222|492|Дифференциальная геометрия и топология|222|DG
+223|493|Дифференциальная геометрия финслеровых пространств|223|DG
+224|494|Что такое число?|224|NT
+225|495|Elementary Topology: The 1st Course|225|GT
+226|496|Алгебры Ли и их приложения в задачах |226|GRT
+227|497|Number theory |227|NT
+228|498|Ramanujan’s Lost Notebook. Part1|228|NT
+229|499|Stochastic Calculus|229|SA
+230|465|Notes on Basic 3-Manifold Topology|230|GT
+231|351|Differential Topology|231|DT
+232|500|Contemporary abstract algebra|232|AA
+233|501|Радикально элементарная теория вероятностей|233|SA
+234|351|Introduction to Differential Topology|234|DT
+235|502|Monte Carlo Integration (thesis,ch.2)|235|NA
+236|11|Введение в дифференциальную геометрию|236|DG
+237|503|Invariance theory, the heat equation and the Atiyah-Singer index theorem|237|OA
+238|146|Operands and CFT|238|MP
+239|33|Algebra: the 1st concepts|239|AA
+240|33|Geometry of numbers (Farey Diagrammes)|240|NT
+241|33|Algebraic number theory|241|NT
+242|504|Дополнительные главы математического анализа|242|CLA
+243|11|Вариационные принципы механики (сб. статей)|243|FA
+244|505|Квантовый анализ|244|QA
+245|506|Mathematics by experiment: plausible reasoning in the 21st century|245|GM
+246|33|Mathematics into 21 century [ed. Browder F.]|246|GM
+247|33|The millennium prize problems [eds. Carlson, Jaffe, Wiles]|247|GM
+248|33|Harmonic, wavelet and P-adic analysis [eds. Chuong et al.]|248|ST
+249|479|p-адический анализ и математическая физика|249|ST
+250|507|Деформированные осцилляторы и их приложения|250|QA
+251|33|Contemporary aspects of complex analysis, diff. geometry and math. physics [eds. Dimiev S., Sekigawa K.]|251|GM
+252|33|NEW RESEARCH ON THREE MANIFOLDS AND MATHEMATICS [eds. SAMUEL F. NEILSON]|252|GT
+253|508|Теория автоматического управления. Т. 1.  Линейные системы|253|N1
+254|508|Теория автоматического управления. Т. 2. Многомерные, нелинейные, оптимальные и адаптивные системы|254|N1
+255|33|Современные проблемы математики. Вып.1|255|N1
+256|33|Конгресс математиков в Киото(1990). Избранные доклады |256|MT
+257|485|Introduction to Algebraic Geometry |257|AG
+258|509|Операционное исчисление. Теория гиперфункций|258|FA
+259|222|Dynamical Systems|259|DS
+260|33|TRENDS IN DIFFERENTIAL GEOMETRY, COMPLEX ANALYSIS AND MATHEMATICAL PHYSICS (eds. K. Sekigawa et al.)|260|DG
+261|489|Лекции по математике. T13: Топология|261|GT
+262|489|Лекции по математике. T12: Контрпримеры и парадоксы|262|GM
+263|510|THEORIES OF INTEGRATION|263|CLA
+264|511|Лекции о производящих функциях|264|CB
+265|512|Введение в пучки, расслоения и классы Черна|265|HO
+266|513|Techniques of differential topology in relativity|266|DT
+267|514|Hamilton's Ricci Flow|267|DG
+268|515|Ricci flow and the Poincare conjecture|268|DG
+269|516|FRACTAL GEOMETRY|269|DS
+270|517|Fractal Geometry, Complex Dimensions and Zeta Functions|270|DS
+271|518|Higher Algebraic K-theory: an overview|271|HO
+272|519|LECTURES ON CHERN-WEIL THEORY AND WITTEN DEFORMATIONS|272|DG
+273|520|Vector Fields on Manifolds |273|DG
+274|520|The geometry and  physics of knots |274|DG
+275|521|Применение статистических методов для поиска новой физики на LHC |275|NA
+276|522|Категории для работающего математика|276|HO
+277|523|Tensor analysis paper|277|DG
+278|524|Квантование, квантовая теория поля и тэта-функции|278|MP
+279|525|Visual Complex Analysis|279|CA
+280|526|Complex Analysis|280|CA
+281|527|Differential Topology|281|DT
+282|33|Low-Dimensional Topology (digital reprint) [ed. R. Brown, T. Thickstun]|282|DT
+283|258|Quantum and fermion differential geometry|283|DG
+284|258|RICCI AND LEVI-CIVITA'S TENSOR ANALYSIS PAPER |284|DG
+285|528|Non-commutative differential geometry |285|NC
+286|529|Lectures on Connes non-commutative geometry and applications to fundamental interactions  |286|NC
+287|258|The geometry of non-linear DE, backlund transformations and solitons. Part A. |287|MP
+288|258|Fourier Analysis on Groups and Partial Wave Analysis |288|GRT
+289|258|Physical aspects of Lie group theory  |289|GRT
+290|530|Collected Works. Vol. 3. Unpublished essays and lectures|290|LG
+291|531|PROBABILITY DEMYSTIFIED|291|SA
+292|269|Linear Algebra Demystified|292|CLA
+293|532|Advanced Calculus Demystified|293|CLA
+294|533|Math Proofs Demystified|294|GM
+295|534|Selected Papers|295|GM
+296|535|Groups, Rings and fields|296|GT
+297|536|Measure, Integral and Probability|297|CLA
+298|33|Mirror Symmetry [K. Hori et al.]|298|MP
+299|537|Linear Functional Analysis|299|FA
+300|538|A first course in discrete mathematics|300|NT
+301|539|An introduction to Laplace transforms and Fourier series|301|CA
+302|435|Complex Analysis (SUMS)|302|CA
+303|540|Basic Probability Theory with Applications(SUMAT)|303|SA
+304|541|Elementary Differential Geometry (SUMS)|304|DG
+305|424|Algebraic Topology: A First Course|305|AT
+306|542|Basic Category Theory for Computer Scientists|306|CT
+307|543|Categories and Sheaves|307|CT
+308|435|Fields and Galois Theory (SUMS)|308|GRT
+309|544|Теория меры|309|CLA
+310|545|Finitely Generated Abelian Groups and Similarity of Matrices over a Field (SUMS)|310|GRT
+311|546|A Hilbert space problem book|311|FA
+312|11|Philosophy of complex systems|312|N1
+313|544|Лекции по эргодической теории|313|CLA
+314|544|Гильбертово пространство в задачах|314|FA
+315|543|Sheaves on Manifolds|315|CT
+316|11|Braids [eds. A. Jon Berrick et al.]|316|CT
+317|11|Mathematical events of the XX century [eds. Bolibruch]|317|N1
+318|544|Гильбертово пространство в задачах (2page ed.)|318|FA
+319|547|Теория функций|319|FA
+320|488|Суперанализ|320|FA
+321|548|3D geometry and topology|321|GT
+322|549|Confoliations|322|GT
+323|550|Теория секвентного анализа|323|FA
+324|255|The Topology of Chaos|324|DS
+325|551|Vertex Algebras and Algebraic Curves|325|CT
+326|552|Мозаика теории комплексных кривых|326|AG
+327|553|Введение в метаматематику|327|LG
+328|554|Superfractals|328|DS
+329|555|Set, functions and logic|329|AA
+330|556|Комплексные числа|330|CA
+331|555|The Joy of Sets|331|AA
+332|557|Advanced Statistics Demystified|332|SA
+333|11|The Grothendieck Festschrift|333|AG

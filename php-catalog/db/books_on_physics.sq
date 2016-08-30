@@ -1,0 +1,477 @@
+﻿0|1|Geometric Quatization|0|QM
+1|2|Этот странный квантовый мир|1|QM
+2|3|Квантовая механика и интегралы по траекториям|2|QM
+3|4|Матричная квантовая механика|3|QM
+4|5|Speakable and Unspeakable in QM|4|QM
+5|6|Visual Quantum Mechanics|5|QM
+6|7|Метод теории групп в квантовой механике|6|PGT
+7|8|Теория групп и квантовая механика|7|PGT
+8|9|Квантовая телепортация - обыкновенное чудо|8|QM
+9|10|Theoretical Physics (QM, lecture notes)|9|QM
+10|11|Quantum Theory and Measurement|10|QM
+11|11|Decoherence: Theoretical, Experimental and Concetual Problems|11|QM
+12|12|Лекции по квантовой информации|12|QM
+13|13|Динамические симметрии и когерентные состояния|13|QM
+14|14|Теория групп и ее приложения к квантовомеханической теории атомных спектров|14|PGT
+15|15|Advanced Quantum Field Theory|15|QFT2
+16|16|Калибровочные теории в физике элементарных частиц|16|GGT
+17|17|Квантовая электродинамика|17|QFT1
+18|11|Геометрические идеи в физике|18|MTH
+19|18|Теория суперструн, т.1|19|PST
+20|18|Теория суперструн, т.2|20|PST
+21|11|Quantum mechanics IV. An Introduction to Quantum Field Theory|21|QFT1
+22|19|Введение в калибровочные теории. Тексты лекций.|22|GGT
+23|19|Лептоны и кварки|23|PHN
+24|20|Введение в квантовую теорию поля|24|QFT1
+25|21|Калибровочные поля и струны|25|GGT
+26|22|PCT, спин, статистика и всё такое|26|MTH
+27|23|Квантовая теория полей. Т.1. Основы.|27|QFT2
+28|23|Квантовая теория полей. Т.2. Современные приложения|28|QFT2
+29|24|Quantum Theory of Fields.  vol.III. Supersymmetry|29|SUSY
+30|25|AdS/CFT -Correspondence|30|AC
+31|25|Path Integrals|31|QFT1
+32|26|Geometry of Yang-Mills fields|32|GGT
+33|27|Солитоны и инстантоны в квантовой теории поля|33|QFT2
+34|28|Diagrammar|34|QFT2
+35|29|Континуальные интегралы в КТП и статистической физике|35|QFT1
+36|11|Квантовая теория калибровочных полей (сб. ст.)|36|GGT
+37|30|Conceps in Theoretical Physics|37|CSP
+38|11|Topical meeting on Gravitation and Field Theory (ICTP)|38|QG
+39|11|Инстантоны, струны и конформная теория поля [сб. ст.](ред. А.А.Белавин)|39|SFT
+40|31|Лекции по конформной теории поля ( рукопись)|40|QFT2
+41|32|Gauge Fields, Knots and Gravity|41|GGT
+42|33|Theoretical Physics fin de siecle (Review volume)|42|CSP
+43|34|The Mathematical Beauty of Nature|43|MTH
+44|35|Лекции по квантовой теории поля|44|QFT1
+45|36|Lectures on QFT|45|QFT1
+46|37|Кварки, лептоны и калибровочные поля|46|PHN
+47|11|Гравитация и топология [сб. ст.]|47|QG
+48|38|Уравнения Зайберга-Виттена и топология 4-многообразий|48|QFT2
+49|33|Geometry and Physics of Branes [ed. Bruzzo, Gorini, Moschello]|49|BR
+50|39|Cosmology for string theorists, a crash course|50|QC
+51|40|Electromagnetic fields and culculation a topological approach|51|QFT2
+52|41|Алгебраическая квантовая теория (Современные методы КТП, Т.3)|52|QFT2
+53|42|QFT in Nutshell|53|QFT1
+54|42|QFT in Nutshell[2nd. edition]|54|QFT1
+55|43|Gauge Theory and the topology of Four-Manifolds|55|GGT
+56|11|Kac-Moody and Virasoro algebras (Reprint vol. for physicists)|56|MTH
+57|44|Quantization of gauge systems|57|GGT
+58|11|QG, Generalized Theory of Gravitation and Superstring Theory-based Unification|58|QG
+59|11|Towards quantum gravity (Proc. Polanica LNP541)|59|QG
+60|45|Квантованные поля в искривленном пространстве-времени|60|QG
+61|46|Consistent Quantum Theory|61|QFT2
+62|47|The Uses of Instantons|62|QFT2
+63|48|The many-worlds interpretation of quantum mechanics|63|QM
+64|49|Gauge Field Theories|64|GGT
+65|30|Functional integration and quantum physics|65|QFT1
+66|50|Принципы симметрии в физике элементарных частиц|66|PGT
+67|51|Симметрии и законы сохранения в физике|67|PGT
+68|52|Общая теория относительности|68|GR
+69|53|Теория относительности. Избранные работы|69|GR
+70|53|Физика и реальность (отрывки).|70|GR
+71|54|Zur elektrodynamik bewegter Korper|71|GR
+72|55|Фейнмановские лекции по гравитации|72|GR
+73|56|Общая теория относительности|73|GR
+74|57|Introduction to Differential Geometry And  General Relativity|74|GR
+75|58|Lectures Notes on General Relativity|75|GR
+76|59|Структура Пространства -Времени|76|GR
+77|11|Альберт Эйнштейн и теория гравитации [сб. ст.]|77|GR
+78|39|Lectures on Cosmology|78|GR
+79|60|Эволюция физики|79|CSP
+80|53|Собрание научных трудов. Т.1|80|GR
+81|53|Собрание научных трудов. Т.2|81|GR
+82|53|Собрание научных трудов. Т.3|82|GR
+83|53|Собрание научных трудов. Т.4|83|GR
+84|57|Introduction to Differential Geometry and General Relativity|84|GR
+85|61|QCD and Renormalisation Group Methods|85|REN
+86|62|Введение в супергравитацию|86|QG
+87|63|An Introduction to Symmetry and Supersymmetry in QFT|87|SUSY
+88|64|Supergravity|88|QG
+89|65|Введение в суперсимметрию и супергравитацию|89|SUSY
+90|25|Inroduction to Supersymmetry|90|SUSY
+91|66|Суперсимметрия и супергравитация|91|SUSY
+92|67|Supersymmetry in quantum and classical mechanics|92|SUSY
+93|68|Supersymmetry, Supergravity and Partical Physics|93|SUSY
+94|69|Introducting Supersymmetry|94|SUSY
+95|70|Supersymmetric Methods in Quantum and Statistical Physics|95|SUSY
+96|71|Расслоённые пространства|96|MTH
+97|72|Теория групп и её приложения к физическим проблемам|97|PGT
+98|73|Теория представлений групп и её приложения. Т.1|98|PGT
+99|73|Теория представлений групп и её приложения. Т.2|99|PGT
+100|74|Multivalued Fields in in Condensed Matter, Electrodynamics, and Gravitation|100|QFT1
+101|75|Стохастические процессы в физике и химии|101|NL
+102|11|Reviews of Modern Physics|102|CSP
+103|76|A Unified Grand Tour of Theoretical Physics, 2nd ed.|103|CSP
+104|77|Солитоны в математике и физике|104|NL
+105|78|Geometry, Topology and Physics|105|MTH
+106|79|Геометрические методы математической физики|106|MTH
+107|80|Конец неопределённости. Время, хаос и новые законы природы.|107|NL
+108|11|Странные аттракторы [сб. ст.]|108|NL
+109|81|Дифференциальная геометрия и топология|109|MTH
+110|82|Теория нелинейных решёток|110|LT
+111|83|Curved Space|111|MTH
+112|84|Ренормализационная группа и е-разложение|112|REN
+113|85|Линейные и нелинейные волны|113|NL
+114|86|The Physics Of The Standart Model. Part1.|114|PHN
+115|87|Сюрпризы в теоретической физике|115|N0
+116|88|More surprises in theoretical physics|116|N0
+117|11|The nature of haos [ed. T. Mullin]|117|NL
+118|89|Time Operator|118|MTH
+119|11|Geometrical Methods in Physics (Handbook)|119|MTH
+120|90|Теория групп и квантовая физика|120|PGT
+121|91|Симметрия в физике. Т.1|121|PGT
+122|91|Симметрия в физике. Т.2|122|PGT
+123|92|Supermanifolds and Supergroups: Basic Theory|123|SUSY
+124|93|Группы симметрий ДУ и релятивистские поля|124|PGT
+125|94|Представления группы Лоренца и их применения|125|PGT
+126|95|Теория унитарной симметрии|126|PGT
+127|96|Группы преобразований в математической физике|127|PGT
+128|97|Вариационные методы в математической физике и технике|128|MTH
+129|98|Аналитическая динамика|129|N0
+130|99|Quantum Noise|130|QM
+131|11|Квантовые случайные процессы и открытые системы|131|QM
+132|100|Математические основы суперсимметричных теорий поля|132|SUSY
+133|101|Супералгебры Ли|133|SUSY
+134|102|Группы симметрии и элементарные частицы|134|PGT
+135|103|Non-perturbative aspects in supersymmetric gauge theories|135|GGT
+136|104|Some nonperturbative semiclassical methods in QFT|136|NC
+137|81|Квантовая теория поля и топология|137|QFT2
+138|105|Общая теория квантованных полей|138|QFT2
+139|106|Topological Solitons|139|NL
+140|107|Lectures on non-perturbative canonical gravity|140|QG
+141|108|Введение в диаграммную технику Фейнмана|141|QFT1
+142|109|Гравитация и космология|142|QC
+143|110|Лекция по теории Сегала-Вильсона|143|QFT2
+144|111|Lie Algebras in particle physics|144|PGT
+145|11|The mathematical beauty of physics|145|MTH
+146|112|Modern Differential Geometry for Physicists|146|MTH
+147|113|An Introduction to Topological Field Theory|147|QFT2
+148|114|Topological Quantum numbers in Nonrelativistic Physics|148|N0
+149|115|МСМФ,vol.I. Функциональный анализ|149|MTH
+150|115|МСМФ,vol.II. Гармонический анализ|150|MTH
+151|115|МСМФ,vol.IV. Анализ операторов |151|MTH
+152|11|Cолитоны [сб.ст.]|152|NL
+153|17|Теория фундаментальных процессов|153|QFT1
+154|116|Vol.1. The global approach to quantum field theory|154|QFT2
+155|116|Vol.2. The global approach to quantum field theory|155|QFT2
+156|11|New developments in QFT [eds. Damgaard P.H.,Jurkiewicz J.]|156|QFT2
+157|11|Mathematics of contemporary physics [ed. Streater R.F.]|157|MTH
+158|11|50 years of Yang-Mills theory [ed. tHooft G.]|158|GGT
+159|117|String Theory and M-Theory|159|MXT
+160|118|Exercises in quantum field theory (vol.4 in series)|160|QFT1
+161|119|Quantum field theory:a modern introduction|161|QFT1
+162|120|Knots and physics|162|MTH
+163|121|Introduction to noncommutative spaces and their geometry|163|NC
+164|11|Mathematical tools for physicists [ed. G.L. Trigg]|164|MTH
+165|11|Strings and Symmetries [eds. Aktas G.,Saclioglu C.,Serdaroglu M.]|165|SFT
+166|33|The Conformal Structure of Space-Time [eds. Frauendiener J.,Friedrich H.]|166|MTH
+167|122|Gauging What's Real: The Conceptual Foundations of Gauge Theories|167|GGT
+168|123|Quantum gauge theories: a true ghost story|168|GGT
+169|124|Quantum fluctuations of spacetime|169|QG
+170|11|Quantum gravity. Mathematical models and experimental bounds [eds. Fauser B., et al.]|170|QG
+171|11|Supersymmetric world [eds. Kane G.,Shifman M.]|171|SUSY
+172|125|Modern supersymmetry|172|SUSY
+173|11|Quantum Field Theory [eds. Breitenlohner P.,Maison D.]|173|QFT2
+174|11|Decoherence: Theoretical, Experimental, and Conceptual Problems [eds. Blanchard P., Joos E., Giulini D., Kiefer C., Stamatescu I.]|174|QM
+175|126|Foundations of QCD|175|QFT2
+176|127|A new approach to QFT|176|QFT1
+177|128|Supermanifolds: theory and applications|177|SUSY
+178|129|Under the spell of the gauge principle|178|GGT
+179|11|Renormalization: from Lorentz to Landau [ed. Brown L.M.]|179|REN
+180|130|Combinatorics and renormalization in quantum field theory|180|REN
+181|131|Introduction to the renormalization group (Ising model etc., sketchy lecture notes)|181|REN
+182|132|Non-Perturbative Renormalization|182|REN
+183|133|From perturbative to constructive renormalization|183|REN
+184|134|Renormalization: an introduction|184|REN
+185|11|Informal meeting on renormalization theory|185|REN
+186|135|An advanced course in general relativity|186|GR
+187|136|Einstein's unified field theory|187|GR
+188|11|General relativity and gravitation. 100 years after the birth of Albert Einstein. Vol.1 [ed. Held A.]|188|GR
+189|11|General relativity and gravitation. 100 years after the birth of Albert Einstein. Vol.2 [ed. Held A.]|189|GR
+190|137|God's Equation: Einstein, relativity and the expanding universe|190|GR
+191|138|Age of Einstein (intro to relativity)|191|GR
+192|139|Differential geometry and Lie groups for physicists|192|PGT
+193|140|Статистические методы в экспериментальной физике|193|N0
+194|141|Supersymmetry and superfields|194|SUSY
+195|142|Ideas and Methods of Supersymmetry and Supergravity|195|SUSY
+196|143|Supersymmetry for Mathematicians: An Introduction|196|SUSY
+197|144|Modern QFT: A Concise Introduction|197|QFT1
+198|145|Field theory: a modern primer|198|QFT2
+199|11|John Bell on the foundations of quantum mechanics [eds. Bell M., Gottfried K., Veltman M.]|199|QM
+200|11|The physics of quantum information: quantum cryptography, teleportation, computation [eds. Bouwmeester D., Ekert A., Zeilinger A.]|200|QM
+201|146|Operads and 2d Quantum Field Theory|201|QFT2
+202|147|Einstein and the quantum theory|202|QM
+203|11|The Casimir Effect 50 Years Later [ed. Bordag M.]|203|QFT2
+204|148|Introduction to algebraic techniques|204|MTH
+205|149|Algebraic quantum field theory|205|QFT2
+206|150|The Casimir effect: Physical manifestation of zero-point energy|206|QFT2
+207|11|Frontiers of theoretical physics: A general view of theoretical physics at the crossing of centuries [eds. Sakata F., Wu K., Zhao E.-G.]|207|CSP
+208|151|A course on Modular localization and algebraic approach to nonperturbative QFT|208|MTH
+209|25|Selected topics in QFT|209|QFT2
+210|33||210|
+211|11|Non-perturbative methods and lattice QCD [eds. Luo X.-Q., Gregory E.B.]|211|NC
+212|152|Fundamentals of Nuclear Reactor Physics|212|N0
+213|33||213|
+214|127|Mathematical formulation of quantum electrodynamics|214|QFT1
+215|127|An operator calculus with applications in QED|215|QFT1
+216|127|Forces in molecules|216|QM1
+217|153|2D Gravity and Random Matrices|217|QG
+218|11|Topological quantum field theories and geometry of loop spaces [eds. Feher L., Stipsicz A., Szenthe J.]|218|QFT2
+219|154|Quantum physicists, and introduction to their physics|219|QM
+220|11|Relativity, Groups and Topology (ed. DeWitt B., Le Houches lectures)|220|MTH
+221|11|Relativity, groups and topology II (Les Houches 1983 lectures)|221|MTH
+222|155|Functional integration and quantum physics|222|QFT1
+223|11|The World in Eleven Dimensions [ed. Duff M.]|223|MXT
+224|156|Group Geometric Methods in Supergravity and Superstring Theories|224|MTH
+225|157|LIE GROUPS IN PHYSICS|225|PGT
+226|158|LIE GROUPS EXERCISES|226|PGT
+227|158|THE CONCEPTUAL BASIS OF QFT|227|QFT1
+228|159|Elementary Particle Physics|228|QFT1
+229|158|INTRODUCTION TO STRING THEORY|229|SI
+230|11|Methods of Theoretical Physics I|230|MTH
+231|11|Methods of Theoretical Physics II|231|MTH
+232|160|A COURSE IN FIELD THEORY|232|QFT1
+233|11|Problems to A Course in QFT|233|QFT1
+234|161|An Introduction to String Theory and D-Brane Dynamics|234|DB
+235|162|D-branes|235|DB
+236|163|QUANTUM FIELD THEORY|236|QFT1
+237|164|Gauge Theories in Particle Physics: A Practical Introduction. Vol. 1|237|GGT
+238|164|Gauge Theories in Particle Physics: A Practical Introduction. Vol. 2|238|GGT
+239|64|Advanced quantum gauge field theory|239|QFT2
+240|165|The BRST Complex and the Cohomology of Compact Lie Algebras|240|PGT
+241|166|The geometry of the space of fields in Yang-Mills theory|241|GGT
+242|11|Gauge Theories in the Twentieth Century [ed. J.S. Taylor ]|242|GGT
+243|11|The legacy of Albert Einstein: A collection of essays in celebration of the year of physics[ed. Wadia .R.]|243|GR
+244|167|Классические калибровочные поля: бозонные теории|244|GGT
+245|168|Quantum Monte-Carlo: origins, development, applications|245|QM
+246|169|The Universe and Dr. Einstein|246|GR
+247|170|Лекции по статистической физике|247|N0
+248|171|Thermodynamics|248|N0
+249|172|Представления групп и их применение в физике. Функции Грина|249|PGT
+250|113|An Introduction to Topological Field Theory|250|QFT2
+251|11|QCD: Renormalization for the Practitioner [eds. P.Pascual, R. Tarrach]|251|REN
+252|173|2D Quantum Gravity and SC at high Tc|252|QG
+253|174|Quarks, gluons and lattices|253|NC
+254|11|Low-Dimensional Systems[ed. Brandes T.]|254|QM
+255|172|ДУ, специальные функции, асимптотики|255|MTH
+256|175|Солитоны|256|NL
+257|11|2D quantum gravity and random surfaces [eds. D. Gross, T Piran, S. Weinberg]|257|QG
+258|11|Superstrings and related matters [eds. B. Greene, J. Louis, K. Narain, S. Randjibar-Daemi]|258|SFT
+259|176|Lectures on string theory|259|SI
+260|177|Symmetry breaking|260|QFT2
+261|11|Geometry and quantum physics [eds. H. Gausterer, H. Grosse, L. Pittner] |261|MTH
+262|11|ITEP lectures on particle physics and QFT. Vol.1|262|QFT2
+263|11|ITEP lectures on particle physics and QFT. Vol.2|263|QFT2
+264|178|Supersymmetric Solitons|264|SUSY
+265|179|Noncommutative quantum field theories|265|NC
+266|180|Вероятность и смежные вопросы в физике|266|MTH
+267|181|Введение в теорию солитонов|267|NL
+268|182|Теория поля. Современный вводной курс|268|QFT1
+269|11|Сборник задач по уравнениям математической физики|269|MTH
+270|183|A First Book of Quantum Field Theory|270|QFT1
+271|184|General Relativity short course|271|GR
+272|185|Advanced General Relativity|272|GR
+273|186|Geometry and topology in physics|273|MTH
+274|187|Теория перенормировок|274|REN
+275|188|An introduction into the Feynman path integral|275|QFT1
+276|189|Послушная квантовая механика|276|QM
+277|190|Лекции по квантовой теории поля. Часть I|277|QFT1
+278|190|Лекции по квантовой теории поля. Часть II|278|QFT1
+279|191|Fliud Mechanics: A Short Course|279|N0
+280|33|Inverse Problem Theory|280|N0
+281|192|Modern Elementary Particle Physics|281|PHN
+282|190|Лекции по статистической физике|282|N0
+283|193|Supermanifolds|283|SUSY
+284|11|The Cyclotron Notebook|284|QFT1
+285|194|Relativistic Quantum Fields 1|285|QFT1
+286|195|Dynamical Theories of Brownian Motion|286|N0
+287|196|Применение УФ-, ИК- и ЯМР-спектроскопии в органической химии|287|N0
+288|33|Вопросы перспективной радиолокации|288|N0
+289|197|A theoretical physics FAQ|289|QFT1
+290|198|Advanced General Relativity|290|GR
+291|11|Современные проблемы хаоса и нелинейности [сб. ст.] (под ред. Х. Симо)|291|NL
+292|199|Bosonic Strings: A mathematical treatment|292|PST
+293|200|The noisy oscillator: the first 100 years, from Einstein until now|293|NL
+294|201|The Mystery of the Quantum World|294|QM
+295|202|Particles and Fields|295|PHN
+296|11|The universe of general relativity [ed. A. Kox]|296|GR
+297|11|Supersymmetric mechanics. Vol. 1: Supersymmetry, noncommutativity and matrix models [eds. Bellucci S., et al.]|297|SUSY
+298|11|Supersymmetric mechanics. Vol. 2: The attractor mechanism and space time singularities [eds. Bellucci S., et al.]|298|SUSY
+299|203|Mathematics for physics: A guided tour for graduate students|299|MTH
+300|204|Extra Dimensions in Space and Time|300|HD
+301|11|Topology and geometry in physics [eds. Bick E., Steffen F.]|301|MTH
+302|11|Applications of Random Matrices in Physics [eds. Brezin E., et al.]|302|MTH
+303|199|Geometry and physics|303|MTH
+304|205|General relativity from A to B|304|GR
+305|206|Gravitation: Foundations and Frontiers|305|GR
+306|207|Green's functions in physics|306|MTH
+307|208|Solitons: an introduction|307|NL
+308|209|Введение в единую полевую теорию элементарных частиц|308|N0
+309|33|Elie Cartan and Albert Einstein: Letters on absolute parallelism, 1929-1932|309|N0
+310|33|Zeta Functions, Topology and Quantum Physics [eds. Aoki T., et al.]|310|QM
+311|210|Физика макросистем|311|N0
+312|211|Quantum Mechanics at the Crossroads|312|QM
+313|11|From number theory to physics [eds. Waldschmidt M., et al]|313|MTH
+314|212|A 1st Course in String Theory|314|SI
+315|212|A 1st Course in String Theory: Solutions for problems in Part 1|315|SI
+316|212|A 1st Course in String Theory: Solutions for problems in Part 2|316|SI
+317|213|Black Holes, information and the string theory revolution|317|CSP
+318|214|The Free Bosonic String|318|PST
+319|215|Calabi-Yau manifolds and their friends|319|PGT
+320|216|Calabi-Yau manifolds. A bestiary for physicists |320|PGT
+321|217|Toward a Nonperturbative Topological String|321|NL
+322|218|Введение в теорию струн и конформную терию поля|322|SI
+323|219|Cyclic Coverings, Calabi-Yau Manifolds and Complex Multiplication|323|PGT
+324|220|String Theory and Zeta-function|324|MTH
+325|221|Gravity and Strings|325|SI
+326|11|Introduction to QFT (compilation)|326|QFT1
+327|222|Semi-Riemann Geometry and General Relativity|327|GR
+328|223|Introduction to Path Integrals in Field Theory|328|QFT1
+329|11|A Stubbornly Persistent Illusion: The Essential Scientific Works of Albert Einstein [ed. S. Hawking]|329|GR
+330|224|From Newton To Mandelbrot|330|GR
+331|33|Mathematical Aspects of String Theory|331|MTH
+332|225|Quantum Theory and the Brain(Proc. Roy. Soc. Lond. A 427, 43-93 )|332|QM
+333|226|Gravity's Shadow: the search for gravitational waves|333|GR
+334|47|Notes from Sidney Coleman’s Physics 253a (Harvard, Fall 1985-1986)|334|QFT1
+335|227|Quantum mechanics on the personal computer|335|QM
+336|228|Supersymmetry.An Introduction with Conceptual and Calculational Details|336|SUSY
+337|11|Many Worlds? Everett, Quantum Theory, and Reality[eds. S. SAUNDERS et al.]|337|QM
+338|11|Quantum Fields and Strings: a course for mathematicians,vol.1|338|QFT2
+339|11|Quantum Fields and Strings: a course for mathematicians,vol.2 |339|QFT2
+340|229|LIE GROUPS, LIE ALGEBRAS, COHOMOLOGY AND SOME APPLICATIONS IN PHYSICS|340|MTH
+341|230|Travelling waves and periodic oscillations in Fermi-Pasta-Ulam lattices|341|LT
+342|231|Introduction to QFT on a lattice|342|LT
+343|232|Quantum theory of solitons|343|NL
+344|233|A very short introduction to quantum field theory|344|QFT1
+345|234|Advanced Quantum Mechanics|345|QM
+346|24|Cosmology|346|QC
+347|235|Algebraic analysis of solvable lattice models|347|LT
+348|236|An Introduction to lattice gauge theory and spin systems|348|LT
+349|237|Quantum fields on a lattice |349|LT
+350|238|DISCRETE GAUGE THEORY: From Lattices to TQPT|350|LT
+351|33|Strings, Lattice Gauge Theory and High Energy Phenomenology [eds. V. Singh et al.]|351|LT
+352|11|Элементарные частицы и компенсирующие поля [сб. ст.]|352|GGT
+353|54|Relativity: The Special and General Theory [with preface by R. Penrose]|353|GR
+354|33|Frontiers in Number Theory, Physics, and Geometry II On Conformal Field Theories, Discrete Groups and Renormalization [ed P. Cartier]|354|MTH
+355|239|Introduction to Quantum Field Theory|355|QFT1
+356|240|QFT|356|QFT1
+357|174|Quarks, gluons and lattices|357|LT
+358|33|Challenges for the 21st century[eds. L. Chen, J. Jesudason et al.]|358|MTH
+359|241|Fiber Bundle Techniques in Gauge Theories|359|GGT
+360|242|Fractal geometry in QM, Field theory and spin systems|360|MTH
+361|243|Renormalization Methods |361|REN
+362|33|QUO VADIS QUANTUM MECHANICS?[eds. A. Elitzur S. Dolev N. Kolenda]|362|QM
+363|244|Quantum Entanglements|363|QM
+364|245|The Landscape of Theoretical Physics|364|QFT1
+365|246|The holographic principle|365|QFT2
+366|33|Quantum electrodynamics(selected papers) [ed. J. Schwinger]|366|QFT1
+367|247|Geometry of the Fundamental Interactions|367|GR
+368|248|Problems in Theoretical Physics, vol. 2|368|N0
+369|249|Topology and Analysis:The Atiyah-Singer Index Formula and Gauge-Theoretic Physics|369|MTH
+370|250|Effective Field Theories in Flavour Physics|370|PHN
+371|251|The Geometry of Physics: an introduction|371|MTH
+372|248|Problems in Theoretical Physics, vol. 1|372|N0
+373|252|Chern-Simmons-Witten theory|373|MTH
+374|253|Seiberg-Witten Gauge Theory|374|MTH
+375|254|INFLATIONARY COSMOLOGY REVISITED|375|QC
+376|255|Topological analysis of chaotic dynamical systems|376|NL
+377|256|How is quantum field theory possible?|377|QFT1
+378|257|Mathematical and conceptual foundations of 20th-century physics|378|QM
+379|258|Lie groups for physicists|379|MTH
+380|258|Vector bundles in math physics|380|MTH
+381|11|Renormalization of QFT with Non-linear Field Transformations [eds. P.Breitenlohner, D.Maison, K.Sibold]|381|REN
+382|259|Quantum Mechanics|382|QM
+383|253|Feynman motives|383|MTH
+384|11|Эйнштейновский сборник, 1980-1981 [сб. ст.]|384|GR
+385|260|Kac-Moody algebras and exact solvability in hadronic physics|385|MTH
+386|11|Ettore Majorana: Unpublished Research Notes on Theoretical Physics [ed. S.Esposito et al.]|386|QFT1
+387|261|Statistical Physics I: Equilibrium Statistical Mechanics|387|N0
+388|262|Statistical Physics II: Nonequilibrium Statistical Mechanics|388|N0
+389|209|ВВЕДЕНИЕ В ЕДИНУЮ ПОЛЕВУЮ ТЕОРИЮ ЭЛЕМЕНТАРНЫХ  ЧАСТИЦ|389|QFT1
+390|129|UNDER THE SPELL OF THE GAUGE PRINCIPLE|390|REN
+391|33|Special Relativity [eds. J. Ehlers and C. Lammerzahl]|391|GR
+392|263|THE PINCH TECHNIQUE AND ITS APPLICATIONS TO NON-ABELIAN GAUGE THEORIES|392|QFT2
+393|33|Geometric phases in physics [eds. A. Shapere and F. WIlczek]|393|MTH
+394|264|Проблема неинвариантности вакуума в квантовой теории поля|394|QFT2
+395|265|Введение в квантовую теорию поля|395|QFT1
+396|266|СУБАТОМНАЯ ФИЗИКА|396|QM
+397|33|Field Theory, Quantum Gravity and Strings II [eds. H. de Vega]|397|QG
+398|267|Nonlinear dynamics and chaos|398|NL
+399|268|QFT I: Basics in Mathematics and Physics|399|QFT1
+400|268|QFT II: Quantum Electrodynamics|400|QFT1
+401|269|String Theory Demystified|401|SI
+402|269|QFT Demystified|402|QFT1
+403|270|SUSY Demystified|403|SUSY
+404|271|Fluid Mechanics Demystified|404|NL
+405|272|Entropy Demystified|405|N0
+406|268|QFT III: Gauge Theory|406|GGT
+407|273|Quantum Field Theory|407|QFT1
+408|274|Path Integrals and Quantum Anomalies|408|QFT2
+409|275|Recent developments in superconductivity|409|QM
+410|276|Квантовая электродинамика|410|QFT1
+411|277|Quantum Physics: A Functional Integral Point of View|411|QFT1
+412|11|Gribov memorial volume: Quarks, Hadrons and Strong Interactions|412|QFT1
+413|278|Quantum mechanics and gravity|413|QG
+414|11|Quo Vadis Quantum Mechanics? [eds. A. Elitzur et al.]|414|QM
+415|279|Mathematics of solitones|415|NL
+416|1|General Relativity|416|GR
+417|280|Algebraic analysis of solvable lattice models|417|LT
+418|281|The picture book of quantum mechanics|418|QM
+419|282|1000 solved problems in modern physics|419|MTH
+420|283|Numerical Relativity|420|GR
+421|33|Non-perturbative methods in 2D QFT|421|QFT2
+422|284|Galaxies in the Universe: An Introduction|422|AP
+423|33|QFT: Competitive models|423|QFT2
+424|285|From the Universe to the Elementary Particles|424|QFT1
+425|286|Broken symmetry: selected papers|425|QFT2
+426|287|Elementary particles and the laws of physics|426|QFT1
+427|33|QFT and gravity: Conceptual and Mathematical Advances|427|QFT2
+428|288|Anomalies in QFT|428|QFT2
+429|289|Mirror symmetry and algebraic geometry|429|MTH
+430|290|Its a Nonlinear World|430|NL
+431|291|Motion Mountain|431|CSP
+432|42|Einstein gravity in a nutshell|432|GR
+433|292|Relativity Visualized|433|GR
+434|293|Advansed topics in QFT|434|QFT2
+435|294|Wavelets and renormalization|435|REN
+436|295|Twistor geometry and field theory|436|QFT2
+437|11|THE LOGIC OF NATURE, COMPLEXITY AND NEW PHYSICS [ed. A. Zichichi]|437|NL
+438|11|Basics and highlights in fundamental physics [ed. A. Zichichi]|438|PHN
+439|11|Cosmic explositons in 3d [ed. P. Hoflich]|439|AP
+440|296|Black holes, demons and the loss of coherence|440|BH
+441|293|ITEP lectures on QFT vol.1|441|QFT2
+442|293|ITEP lectures on QFT vol.2|442|QFT2
+443|8|Избранные труды|443|MTH
+444|11|Handbook of Spacetime [ed. A. Ashtekar]|444|GRT
+445|297|Bells Theorem and Quantum Realism|445|QM
+446|298|ALICE RETURNS FROM WONDERLAND|446|QM
+447|11|Bells Theorem, Quantum Theory and Conceptions of the Universe [ed. M. Kafatos]|447|QM
+448|299|Quantum superposition|448|QM
+449|291|Motion Mountain. VI: A Speculation on Unification |449|CSP
+450|300|Фейнмановские лекции по физике. Т.1 (ch. 1-2)|450|CSP
+451|300|Фейнмановские лекции по физике. Т.2|451|CSP
+452|300|Фейнмановские лекции по физике. Т.4|452|CSP
+453|127|Lectures on physics. Vol.1|453|CSP
+454|127|Lectures on physics. Vol.2|454|CSP
+455|127|Lectures on physics. Vol.3|455|CSP
+456|17|Дюжина лекций: 6+6|456|GR
+457|301|Feynman's lost lecture. Motion of planets around the Sun|457|GR
+458|302|Квантовые вычисления|458|QM
+459|11|Elegance and Enigma (Quantum interviews)|459|QM
+460|303|The Pursuit of Quantum Gravity|460|QG
+461|304|Einstein’s Struggles with Quantum Theory|461|QM
+462|305|Beyond the new physics|462|QM
+463|306|The Theoretical Minimum|463|CSP
+464|307|Physics and chance|464|MTH
+465|11|40 years in Math Physics|465|MTH
+466|123|Finite QED: the causal approach|466|QM
+467|11|BRAID GROUP, KNOT THEORY AND STATISTICAL MECHANICS|467|MTH
+468|308|Soliton equations and Hamiltonian systems|468|NL
+469|11|The Quantum Labyrinth [ed. D. Hoekzema]|469|QM
+470|271|Thermodynamics Demystified|470|N0
+471|309|Symmetry rules (frontiers collection)|471|PGT
+472|310|The Nonlinear Universe (frontiers collection)|472|NL
+473|311|The Physical basis of the direction of time (frontiers collection)|473|GR
+474|312|Quantum measurement|474|QM
+475|313|Солитоны и метод обратной задачи|475|NL
+476|314|QED: A proof of renormalizability|476|QM

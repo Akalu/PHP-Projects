@@ -1,0 +1,268 @@
+﻿0|11|Scientific Visualization: The visual extraction of knowledge from data [eds. Bonneau G., Ertl T., Nielson G.]|0|CG
+1|11|Visualization and processing of tensor fields: Advances and perspectives [eds. Laidlaw D., Weickert J.]|1|CG
+2|11|Mathematical foundations of scientific visualization, computer graphics, and massive data exploration [eds. Moller T., et al.]|2|CG
+3|558|Theory of 3D computer graphics|3|CG
+4|559|Mathematics for computer graphics|4|CG
+5|560|Computer science - an overview|5|N2
+6|561|Radiosity and Realistic Image Synthesis|6|CG
+7|562|Realistic Ray Tracing|7|CG
+8|11|Graphics gems. vol.1|8|CG
+9|11|Graphics gems. vol.2|9|CG
+10|11|Graphics gems. vol.3|10|CG
+11|563|Введение в фотореалистическую графику|11|CG
+12|564|Компьютерное моделирование в физике: Ч.1|12|SIM
+13|564|Компьютерное моделирование в физике: Ч.2|13|SIM
+14|565|Simulating, analyzing, and animating dynamical systems: a guide to XPPAUT|14|SIM
+15|566|An introduction to mathematical fire modeling|15|SIM
+16|567|Вычислительная гидродинамика|16|SIM
+17|568|Introduction to CFD|17|SIM
+18|569|Численные методы|18|NM
+19|570|Численные методы|19|NM
+20|571|Введение в численные методы|20|NM
+21|572|An introduction to multigrid methods|21|NM
+22|573|Gravitational N-body simulations tools and algorithms|22|NM
+23|574|COMPUTATIONAL GEOMETRY IN С|23|NM
+24|575|Восхитительный AMS-TeX|24|CL
+25|11|Фортран 90. Международный стандарт|25|CL
+26|576|Программирование на Fortran Powerstation для инженеров|26|CL
+27|577|LaTeX: подробное описание|27|CL
+28|578|The Not So Short Introduction to LATEX2e|28|CL
+29|579|ВВЕДЕНИЕ В СИСТЕМУ МАТЕМАТИКА|29|SIM
+30|580|Компьютер в математическом исследовании|30|N2
+31|581|Современный фортран|31|CL
+32|581|Visual Fortran: новые возможности|32|CL
+33|582|Основы современной криптографии|33|NM
+34|583|Математические основы машинной графики|34|CG
+35|584|Scientific Computing with PCs|35|NM
+36|585|COMPUTING MACHINERY AND INTELLIGENCE|36|N2
+37|586|Fundamentals of Computational Fluid Dynamics|37|SIM
+38|11|Analysis, modeling and simulation of multiscale problems [eds. A. Mielke]|38|SIM
+39|587|Introduction to the numerical analysis of incompressible viscous flows|39|SIM
+40|588|Computational fluid dynamics. Vol.1|40|SIM
+41|589|New algorithms for macromolecular simulation|41|SIM
+42|11|Mathematical modeling in optical science [eds. Bao, Cowsar L., Masters W.]|42|SIM
+43|590|Simulating the physical world: Hierarchical modeling from quantum mechanics to fluid dynamics|43|SIM
+44|591|Monte Carlo Simulation in Statistical Physics|44|NM
+45|592|Efficient number methods and info-processing techniques for modeling hydro- and environmental systems|45|NM
+46|593|A Guide to Monte Carlo Simulations in Statistical Physics|46|NM
+47|594|Ab Initio Molecular Dynamics|47|SIM
+48|595|High-order accurate methods for Maxwell equations [phd]|48|NM
+49|33||49|\N
+50|596|Введение в численный анализ |50|NM
+51|596|Численные методы I|51|NM
+52|596|Численные методы II|52|NM
+53|597|Вейвлет-анализ временных рядов|53|DSP
+54|598|Современная криптология|54|NM
+55|599|Численные методы для физиков-теоретиков, часть 1|55|NM
+56|599|Численные методы для физиков-теоретиков, часть 2|56|NM
+57|600|Численные методы Монте-Карло|57|NM
+58|601|BAYESIAN SIGNAL PROCESSING|58|DSP
+59|11|Digital Filter Design fo Signal and Image Processing|59|DSP
+60|602|Multirate Statistical Signal Processing|60|DSP
+61|11|Обработка изображений и цифровая фильтрация [ред. Т. Хуанг]|61|DSP
+62|603|Wavelets, Approximation and Statistical Applications|62|DSP
+63|604|Algebraically Approximate and Noisy Realization of Discrete-Time Systems and Digital Images|63|DSP
+64|605|Digital Signal Processing: A practical approach|64|DSP
+65|11|Computational Nuclear Physics [eds. Langanke K., Maruhn J.A., Koonin S.E.]|65|SIM
+66|606|A first course in computational physics|66|SIM
+67|607|Computational Physics|67|SIM
+68|608|Линейное программирование|68|NM
+69|609|Прикладное нелинейное программирование|69|NM
+70|610|PHP5|70|CL
+71|611|MS ASP.NET 3.5 на C#2008|71|CL
+72|612|Numerical Recipes in C|72|NM
+73|613|Learning MATLAB|73|SIM
+74|614|Practical MATLAB applications for engineers|74|SIM
+75|615|Micromechatronics modeling, analysis, and design with MATLAB|75|SIM
+76|616|ADVANCED ENGINEERING MATHEMATICS with MATLAB|76|SIM
+77|617|Learning Programming using MATLAB|77|SIM
+78|618|DSP for MATLAB and LabView. Vol. IV: LMS Adaptive Filtering|78|DSP
+79|619|Mechanisms and Robots Analysis with MATLAB|79|SIM
+80|620|Scientific Computing with MATLAB and Octave (2nd. ed.)|80|SIM
+81|621|Solving ODEs with Matlab|81|NM
+82|622|Embedded Control Systems in C/C++: An Introduction for Software Developers Using MATLAB|82|SIM
+83|623|A Compendium of Partial Differential Equation Models: Method of Lines Analysis with Matlab|83|NM
+84|624|DSP using MatLab v.4|84|DSP
+85|625|Physical Modeling in MATLAB|85|NM
+86|626|MATLAB® Demystified|86|SIM
+87|627|A MATLAB® Companion for Multivariable Calculus|87|SIM
+88|628|Mechanics of Composite Materials with MATLAB|88|SIM
+89|629|Model Predictive Control System Design and Implementation Using MATLAB|89|SIM
+90|630|Modern Control Design With MATLAB and SIMULINK|90|SIM
+91|631|Numerical Analysis Using MATLAB and Excel (3rd ed.)|91|NM
+92|631|Numerical Analysis Using MATLAB and Spreadsheets (2nd ed.)|92|NM
+93|632|Numerical Computing with MATLAB|93|NM
+94|633|Numerical Methods for Chemical Engineering Applications in MATLAB|94|SIM
+95|634|Numerical Methods in Engineering with MATLAB|95|NM
+96|635|Визуализация и анализ инвариантных множеств динамических систем|96|SIM
+97|636|Вычислительная математика и структура алгоритмов|97|NM
+98|637|Numerical methods, algorithms, and tools in C#|98|CL
+99|638|Digital signal processing|99|DSP
+100|639|Engineering Analysis: Interactive Methods and Programs with FORTRAN, QuickBASIC, MATLAB, and Mathematica|100|NM
+101|33|The finite element method for electromagnetic modeling [ed. G. Meunier]|101|SIM
+102|640|Principles of Random Signal Analysis|102|DSP
+103|641|Accelerating Dynamic Programming (Ph.D.)|103|NM
+104|642|Computational Physics (lecture notes)|104|SIM
+105|643|Нейронные сети, генетические алгоритмы и нечеткие системы|105|NM
+106|644|Цветоведение|106|CG
+107|645|Шумоподобные сигналы: анализ, синтез, обработка|107|DSP
+108|11|Templates for the Solution of Linear Systems|108|NM
+109|11|Computationalism: New Directions[ed. M. Scheutz]|109|N2
+110|646|APOCALYPTIC AI|110|N2
+111|647|LabVIEW: практикум по основам измерительных технологий|111|SIM
+112|283|Numerical relativity: solving Einstein's equations on the computer|112|SIM
+113|648|Navier-Stokes Equations: Theory and Numerical Analysis|113|SIM
+114|649|Circuit simulation|114|SIM
+115|33|An Introduction to Fractal Image Compression|115|DSP
+116|650|A Guide to Matlab|116|SIM
+117|651|10 лекций по физической математике|117|NM
+118|652|Язык C++|118|CL
+119|653|LaTeX, Unix и русский стиль |119|CL
+120|654|Не очень краткое введение в LaTeX 2e|120|CL
+121|33|Efficient Modeling and Control of Large-Scale Systems [eds. J. Mohammadpour, K. Grigoriadis]|121|SIM
+122|655|Essential C++ |122|CL
+123|656| Visual C# на примерах|123|CL
+124|657|CG Colour: Intro|124|CG
+125|658|C++ for mathematicians |125|CL
+126|33|Compact Modeling [ed. G. Gildenblat]|126|SIM
+127|33|Mobile Multimedia Processing: Fundamentals, Methods, and Applications|127|DSP
+128|659|Just for FUN - The Story of an Accidental Revolutionary (G)|128|N2
+129|660|Matters Computational|129|NM
+130|661|Phase Noise and Frequency Stability in Oscillators|130|DSP
+131|662|Искусственный интеллект|131|NM
+132|663|Quantum Walks for Computer Scientists|132|NM
+133|664|Принципы когерентной связи (pp. 1-139)|133|DSP
+134|665|Фракталы и вейвлеты для сжатия изображений в действии|134|DSP
+135|11|Feynman and computation: exploring the limits of computers [ed. Hey A.J.G.]|135|N2
+136|666|Physically-based image synthesis: from theory to implementation|136|CG
+137|667|The singularity is near: when humans trascend biology|137|N2
+138|668|Классические и квантовые вычисления|138|NM
+139|669|Нейрокомпьютинг|139|NM
+140|670|Models of Computation|140|N2
+141|33|Numerical Solution  of Nonlinear Equations [ed. E.Allgower, K. Glashoff and H. Peitgen]|141|NM
+142|33|New Computational Paradigms [ed. S. Cooper]|142|N2
+143|667|How to create a mind|143|N2
+144|33|The use of supercomputers in stellar dynamics|144|CAP
+145|258|Geometric computing science: 1st steps |145|NM
+146|671|Supercomputers |146|N2
+147|258|Geometric computing science: 1st steps |147|NM
+148|33|Управляемый термоядерный синтез [под ред. Дж. КИЛЛИНА]|148|SIM
+149|672|Computers and Intractability: A Guide to the Theory of NP-Completeness|149|NM
+150|673|Решение уравнений и систем уравнений|150|NM
+151|290|Computer Algebra Recipes for Mathematical Physics|151|NM
+152|674|Computer Algebra Recipes|152|NM
+153|675|A New Kind of Science|153|NM
+154|676|Искусственный интеллект|154|N2
+155|677|С микрокалькулятором в руках|155|NM
+156|587|Introduction to the numerical analysis of incompressible viscous flows|156|NM
+157|678|Введение в вычислительную математику|157|NM
+158|679|Введение в вычислительную физику|158|SIM
+159|680|Our Mathematical Universe|159|N2
+160|681|A Mathematical Introduction to Compressive Sensing|160|DSP
+161|682|Upgrading Your Skills to Windows Server 2012 R2|161|N2
+162|683|Самоучитель системного администратора|162|N2
+163|684|Windows Server 2008 Active Directory, Configuring|163|
+164|33|Windows Server 2008 Enterprise Admin (Labs)|164|N2
+165|685|Networking: A Beginners Guide|165|N2
+166|686|Networking: Self-Teaching Guide|166|N2
+167|33|Справочник по Active Directory|167|N2
+168|687|SELinux System Administration|168|N2
+169|610|Самоучитель системного администратора Linux|169|N2
+170|688|Беспроводная сеть|170|N2
+171|33|Professional PHP6[ed. Lecky-Thompson]|171|CL
+172|689|Hacking Secret Ciphers with Python|172|CL
+173|690|Learning PHP, MySQL, JavaScript, and CSS|173|CL
+174|691|A Students Guide to Python for Physical Modeling|174|CL
+175|692|Web Programming with PHP and MySQL|175|CL
+176|693|An Introduction to Network Programming with Java|176|CL
+177|694|SQL и реляционная теория: как писать код|177|CL
+178|695|Приемы объектно-ориентированного проектирования|178|CL
+179|696|Guide to the Red Hat Exams|179|N2
+180|697|Тестирование .com|180|N2
+181|698|Complete Guide For Python Programming|181|CL
+182|699|Introduction to Computational Fluid Dynamics|182|NM
+183|700|Basics of Fluid Mechanics|183|NM
+184|701|An Introduction to Computational Fluid Dynamics|184|NM
+185|694|Введение в БД|185|CL
+186|702|С#2010: ускоренный курс|186|CL
+187|703|Вычислимость. Рекурсивные функции|187|NM
+188|704|Guide to Linux commands, editors and shell|188|N2
+189|705|Windows PowerShell Cookbook|189|CL
+190|706|Building Machine Learning Systems with Python|190|CL
+191|707|Teach Yourself ASP.NET Ajax|191|CL
+192|625|How to Think Like a Computer Scientist|192|NM
+193|33|Beautiful Testing|193|N2
+194|708|Effective Methods for Software Testing|194|N2
+195|709|Learning MySQL and MariaDB|195|CL
+196|710|Accelerated C#2010|196|CL
+197|711|Visual C++ на примерах|197|CL
+198|712|Javascript на примерах|198|CL
+199|713|Accelerated C++|199|CL
+200|714|Java 8 Recipes|200|CL
+201|715|Java 8 Pocket Guide|201|CL
+202|716|Java Demystified|202|CL
+203|716|OOP Demystified|203|CL
+204|717|SQL Demystified|204|CL
+205|718|C++ Demystified|205|CL
+206|719|OCA Java SE 7 Programmer I Cert Guide|206|CL
+207|720|Responsive web design with HTML5|207|CL
+208|721|Pro JavaFX 8|208|CL
+209|722| Beginning Java8 Lang Features|209|CL
+210|722| Beginning Java8 APIs|210|CL
+211|723|Teach yourself Java in 24 hours|211|CL
+212|724|Teach yourself C# in 24 hours|212|CL
+213|725|Java Programming|213|CL
+214|722| Beginning Java8 Fundamentals|214|CL
+215|726|EJB 3 Developer Guide|215|CL
+216|727|Enterprise Architect for JavaEE Study Guide|216|CL
+217|728|Enterprise JavaBeans 3.1|217|CL
+218|729|Certified Enterprise Architect for JavaEE Study Guide|218|CL
+219|730|RHCSA/RHCE study guide|219|N2
+220|731|Beginning C++|220|CL
+221|732|Pro Apache Tomcat 6|221|N2
+222|733|Nginx 1 Web Server Impl Cookbook|222|N2
+223|11|Mastering NGINX|223|N2
+224|687|SELinux System Administration|224|N2
+225|734|Apache Tomcat 7|225|N2
+226|735|Quickstart Apache Axis2|226|N2
+227|33|Apex Workbook'16|227|N2
+228|736|The Developer's Guide to the Force.com|228|N2
+229|737|Salesforce Handbook|229|N2
+230|33|Apex Code Developer's Guide12|230|N2
+231|738|Apex Code Testing (Webinar)|231|N2
+232|33|Apex Developer Guide16|232|N2
+233|33|SOAP API Developer Guide 16|233|N2
+234|33|Force.com SOQL and SOSL Reference 16|234|N2
+235|33|Visualforce Workbook 16|235|N2
+236|33|AJAX Toolkit Developer Guide 16|236|N2
+237|33|Visualforce Developer Guide 16|237|N2
+238|739|SQL Antipatterns|238|CL
+239|740|Introducing Maven|239|CL
+240|11|The GitHub Book|240|N2
+241|741|Developing RESTful Web Services with Jersey 2|241|CL
+242|742|Expert Spring MVC|242|CL
+243|743|JUnit Recipes|243|CL
+244|744|AJAX mit Java-servlet|244|CL
+245|745|RESTful Java Web Services|245|CL
+246|746|Pro JSF and Ajax: Building Rich Internet Components|246|CL
+247|747|RESTful Java with JAX-RS|247|CL
+248|748|Beginning JSP, JSF and Tomcat|248|CL
+249|749|Pro Spring|249|CL
+250|11|Spring Web Services 2 Cookbook|250|CL
+251|750|RESTful Web Services Cookbook|251|CL
+252|751|JSF 2.0 Cookbook|252|CL
+253|752|A practical, focused mini book for creating Web Services in Java 7|253|CL
+254|753|Learning jQuery|254|CL
+255|754|ECLIPSE WEB TOOLS PLATFORM|255|CL
+256|755|Professional JavaScript for Web Developers|256|CL
+257|756|Pro Git|257|N2
+258|757|Introducing GitHub|258|N2
+259|758|Beginning JavaScript|259|CL
+260|759|Pragmatic Unit Tesing|260|CL
+261|760|Beginning Hibernate|261|CL
+262|755|Professional AJAX|262|CL
+263|761|Git: version control for everyone|263|N2
+264|762|Optimising Java|264|CL
+265|763|RESTful Java Patterns|265|CL
+266|764|Service design patterns|266|CL
+267|765|Java Performance: The Definitive Guide|267|CL
